@@ -1,7 +1,7 @@
 import 'package:flutter/gestures.dart';
 import 'package:flutter/widgets.dart';
-import 'package:flutter_slidable/src/controller.dart';
-import 'package:flutter_slidable/src/gesture_detector.dart';
+import 'package:flutter_slidable_for_tencent_im/src/controller.dart';
+import 'package:flutter_slidable_for_tencent_im/src/gesture_detector.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:mocktail/mocktail.dart';
 

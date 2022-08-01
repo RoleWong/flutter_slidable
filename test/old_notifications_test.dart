@@ -1,6 +1,6 @@
 import 'package:flutter/widgets.dart';
-import 'package:flutter_slidable/src/controller.dart';
-import 'package:flutter_slidable/src/notifications_old.dart';
+import 'package:flutter_slidable_for_tencent_im/src/controller.dart';
+import 'package:flutter_slidable_for_tencent_im/src/notifications_old.dart';
 import 'package:flutter_test/flutter_test.dart';
 
 void main() {

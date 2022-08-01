@@ -1,4 +1,4 @@
-library flutter_slidable;
+library flutter_slidable_for_tencent_im;
 
 export 'src/action_pane_motions.dart';
 export 'src/actions.dart';

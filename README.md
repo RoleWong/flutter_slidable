@@ -1,10 +1,10 @@
 <!-- [![Build][github_action_badge]][github_action] -->
 [![Pub][pub_badge]][pub] [![BuyMeACoffee][buy_me_a_coffee_badge]][buy_me_a_coffee]
 
-[<img src="https://raw.githubusercontent.com/letsar/flutter_slidable/assets/flutter_favorite.png" width="100" />][flutter_favorite] **Slidable is a [Flutter Favorite][flutter_favorite] package!**
+[<img src="https://raw.githubusercontent.com/letsar/flutter_slidable_for_tencent_im/assets/flutter_favorite.png" width="100" />][flutter_favorite] **Slidable is a [Flutter Favorite][flutter_favorite] package!**
 
 
-# flutter_slidable
+# flutter_slidable_for_tencent_im
 
 A Flutter implementation of slidable list item with directional slide actions that can be dismissed.
 
@@ -24,7 +24,7 @@ Our top sponsors are shown below! [[Become a Sponsor](https://github.com/sponsor
 
 ## Migration from 0.6.0
 
-You can read this small guide to migrate from the 0.6 to the 1.0 version: https://github.com/letsar/flutter_slidable/wiki/Migration-from-version-0.6.0-to-version-1.0.0
+You can read this small guide to migrate from the 0.6 to the 1.0 version: https://github.com/letsar/flutter_slidable_for_tencent_im/wiki/Migration-from-version-0.6.0-to-version-1.0.0
 
 ## Features
 
@@ -45,13 +45,13 @@ In the `pubspec.yaml` of your flutter project, add the following dependency:
 
 ```yaml
 dependencies:
-  flutter_slidable: <latest_version>
+  flutter_slidable_for_tencent_im: <latest_version>
 ```
 
 In your library add the following import:
 
 ```dart
-import 'package:flutter_slidable/flutter_slidable.dart';
+import 'package:flutter_slidable_for_tencent_im/flutter_slidable_for_tencent_im.dart';
 ```
 
 ## Getting started
@@ -150,7 +150,7 @@ Animate the actions as if they were streched while the `Slidable` is moving:
 
 ## FAQ
 
-You can read the FAQ here: https://github.com/letsar/flutter_slidable/wiki/FAQ
+You can read the FAQ here: https://github.com/letsar/flutter_slidable_for_tencent_im/wiki/FAQ
 
 ## Sponsoring
 
@@ -164,19 +164,19 @@ If you find a bug or want a feature, but don't know how to fix/implement it, ple
 If you fixed a bug or implemented a feature, please send a [pull request][pr].
 
 <!-- Links -->
-[github_action_badge]: https://github.com/letsar/flutter_slidable/workflows/Build/badge.svg
-[github_action]: https://github.com/letsar/flutter_slidable/actions
-[pub_badge]: https://img.shields.io/pub/v/flutter_slidable.svg
-[pub]: https://pub.dartlang.org/packages/flutter_slidable
-[codecov]: https://codecov.io/gh/letsar/flutter_slidable
-[codecov_badge]: https://codecov.io/gh/letsar/flutter_slidable/branch/main/graph/badge.svg
+[github_action_badge]: https://github.com/letsar/flutter_slidable_for_tencent_im/workflows/Build/badge.svg
+[github_action]: https://github.com/letsar/flutter_slidable_for_tencent_im/actions
+[pub_badge]: https://img.shields.io/pub/v/flutter_slidable_for_tencent_im.svg
+[pub]: https://pub.dartlang.org/packages/flutter_slidable_for_tencent_im
+[codecov]: https://codecov.io/gh/letsar/flutter_slidable_for_tencent_im
+[codecov_badge]: https://codecov.io/gh/letsar/flutter_slidable_for_tencent_im/branch/main/graph/badge.svg
 [buy_me_a_coffee]: https://www.buymeacoffee.com/romainrastel
 [buy_me_a_coffee_badge]: https://img.buymeacoffee.com/button-api/?text=Donate&emoji=&slug=romainrastel&button_colour=29b6f6&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00
-[flutter_favorite_badge]: https://raw.githubusercontent.com/letsar/flutter_slidable/assets/flutter_favorite.png
+[flutter_favorite_badge]: https://raw.githubusercontent.com/letsar/flutter_slidable_for_tencent_im/assets/flutter_favorite.png
 [flutter_favorite]: https://flutter.dev/docs/development/packages-and-plugins/favorites
-[behind_motion]: https://raw.githubusercontent.com/letsar/flutter_slidable/assets/behind_motion.gif
-[drawer_motion]: https://raw.githubusercontent.com/letsar/flutter_slidable/assets/drawer_motion.gif
-[scroll_motion]: https://raw.githubusercontent.com/letsar/flutter_slidable/assets/scroll_motion.gif
-[stretch_motion]: https://raw.githubusercontent.com/letsar/flutter_slidable/assets/stretch_motion.gif
-[issue]: https://github.com/letsar/flutter_slidable/issues
-[pr]: https://github.com/letsar/flutter_slidable/pulls
+[behind_motion]: https://raw.githubusercontent.com/letsar/flutter_slidable_for_tencent_im/assets/behind_motion.gif
+[drawer_motion]: https://raw.githubusercontent.com/letsar/flutter_slidable_for_tencent_im/assets/drawer_motion.gif
+[scroll_motion]: https://raw.githubusercontent.com/letsar/flutter_slidable_for_tencent_im/assets/scroll_motion.gif
+[stretch_motion]: https://raw.githubusercontent.com/letsar/flutter_slidable_for_tencent_im/assets/stretch_motion.gif
+[issue]: https://github.com/letsar/flutter_slidable_for_tencent_im/issues
+[pr]: https://github.com/letsar/flutter_slidable_for_tencent_im/pulls

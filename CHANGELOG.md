@@ -1,11 +1,11 @@
 ## 1.3.2
 ### Fixed
-* ClipBehavior.none issue (https://github.com/letsar/flutter_slidable/issues/361).
+* ClipBehavior.none issue (https://github.com/letsar/flutter_slidable_for_tencent_im/issues/361).
 
 ## 1.3.1
 ### Fixed
-* Rare LateInitializationError with DrawerMotion (https://github.com/letsar/flutter_slidable/issues/289).
-* Issue with shadow content (https://github.com/letsar/flutter_slidable/issues/279).
+* Rare LateInitializationError with DrawerMotion (https://github.com/letsar/flutter_slidable_for_tencent_im/issues/289).
+* Issue with shadow content (https://github.com/letsar/flutter_slidable_for_tencent_im/issues/279).
 
 ## 1.3.0
 ### Added
@@ -32,7 +32,7 @@ Same as 1.0.0-dev.9. This is just for making it clear that it's now stable.
 
 ## 1.0.0-dev.9
 ### Fixed
-* Fixes an issue where we click on the Slidable instead of dragging it (https://github.com/letsar/flutter_slidable/pull/235).
+* Fixes an issue where we click on the Slidable instead of dragging it (https://github.com/letsar/flutter_slidable_for_tencent_im/pull/235).
 
 ## 1.0.0-dev.8
 ### Fixed
@@ -44,11 +44,11 @@ Same as 1.0.0-dev.9. This is just for making it clear that it's now stable.
 
 ## 1.0.0-dev.6
 ### Fixed
-* Fixes an issue preventing the actionPaneType to be updated when it animates (https://github.com/letsar/flutter_slidable/issues/226).
+* Fixes an issue preventing the actionPaneType to be updated when it animates (https://github.com/letsar/flutter_slidable_for_tencent_im/issues/226).
 
 ## 1.0.0-dev.5
 ### Fixed
-* Fixes an issue preventing the Slidable to reach the extentRatio manually (https://github.com/letsar/flutter_slidable/issues/225).
+* Fixes an issue preventing the Slidable to reach the extentRatio manually (https://github.com/letsar/flutter_slidable_for_tencent_im/issues/225).
 
 ## 1.0.0-dev.4
 ### Added
@@ -56,7 +56,7 @@ Same as 1.0.0-dev.9. This is just for making it clear that it's now stable.
 
 ## 1.0.0-dev.3
 ### Fixed
-* Fixes Dismissal issue with endActionPane (https://github.com/letsar/flutter_slidable/issues/216).
+* Fixes Dismissal issue with endActionPane (https://github.com/letsar/flutter_slidable_for_tencent_im/issues/216).
 
 ## 1.0.0-dev.2
 ### Changed
@@ -84,20 +84,20 @@ Same as 1.0.0-dev.9. This is just for making it clear that it's now stable.
 
 ## 0.5.4
 ### Added
-* Ripple effect when tapping on the IconSlideAction (https://github.com/letsar/flutter_slidable/pull/89)
-* Option to make the widget non-dismissible by dragging (https://github.com/letsar/flutter_slidable/pull/101)
+* Ripple effect when tapping on the IconSlideAction (https://github.com/letsar/flutter_slidable_for_tencent_im/pull/89)
+* Option to make the widget non-dismissible by dragging (https://github.com/letsar/flutter_slidable_for_tencent_im/pull/101)
 
 ## 0.5.3
 ### Fixed
-* Fix SlidableDrawerActionPane when different than 2 actions (https://github.com/letsar/flutter_slidable/pull/74).
+* Fix SlidableDrawerActionPane when different than 2 actions (https://github.com/letsar/flutter_slidable_for_tencent_im/pull/74).
 
 ## 0.5.2
 ### Fixed
-* Add check for null value in dismissal field, in getter for _dismissThreshold (https://github.com/letsar/flutter_slidable/pull/71).
+* Add check for null value in dismissal field, in getter for _dismissThreshold (https://github.com/letsar/flutter_slidable_for_tencent_im/pull/71).
 
 ## 0.5.1
 ### Fixed
-* Fix SlidableDrawerActionPane onTap issue (https://github.com/letsar/flutter_slidable/pull/73).
+* Fix SlidableDrawerActionPane onTap issue (https://github.com/letsar/flutter_slidable_for_tencent_im/pull/73).
 
 ## 0.5.0
 ### Added
@@ -110,7 +110,7 @@ Same as 1.0.0-dev.9. This is just for making it clear that it's now stable.
 
 ## 0.4.9
 ### Fixed
-* Fix the end extend of actions in dismiss animation (https://github.com/letsar/flutter_slidable/pull/38).
+* Fix the end extend of actions in dismiss animation (https://github.com/letsar/flutter_slidable_for_tencent_im/pull/38).
 
 ## 0.4.8
 ### Added
@@ -118,7 +118,7 @@ Same as 1.0.0-dev.9. This is just for making it clear that it's now stable.
 
 ## 0.4.7
 ### Fixed
-* https://github.com/letsar/flutter_slidable/issues/31 (Issue with dismiss animation).
+* https://github.com/letsar/flutter_slidable_for_tencent_im/issues/31 (Issue with dismiss animation).
 
 ## 0.4.6
 ### Modified
@@ -134,11 +134,11 @@ Same as 1.0.0-dev.9. This is just for making it clear that it's now stable.
 
 ## 0.4.3
 ### Fixed
-* https://github.com/letsar/flutter_slidable/issues/23 (Issue with Drawer delegate when different action count).
+* https://github.com/letsar/flutter_slidable_for_tencent_im/issues/23 (Issue with Drawer delegate when different action count).
 
 ## 0.4.2
 ### Fixed
-* https://github.com/letsar/flutter_slidable/issues/22 and https://github.com/letsar/flutter_slidable/issues/24 (Issue with controller).
+* https://github.com/letsar/flutter_slidable_for_tencent_im/issues/22 and https://github.com/letsar/flutter_slidable_for_tencent_im/issues/24 (Issue with controller).
 
 ## 0.4.1
 ### Added
@@ -160,7 +160,7 @@ Same as 1.0.0-dev.9. This is just for making it clear that it's now stable.
 
 ## 0.3.1
 ### Fixed
-* https://github.com/letsar/flutter_slidable/issues/11 (slide action not rebuild after controller dismissed).
+* https://github.com/letsar/flutter_slidable_for_tencent_im/issues/11 (slide action not rebuild after controller dismissed).
 
 ## 0.3.0
 ### Added

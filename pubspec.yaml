@@ -1,7 +1,7 @@
-name: flutter_slidable
+name: flutter_slidable_for_tencent_im
 description: A Flutter implementation of slidable list item with directional slide actions that can be dismissed.
 version: 1.4
-homepage: https://github.com/letsar/flutter_slidable
+homepage: https://github.com/letsar/flutter_slidable_for_tencent_im
 
 environment:
   sdk: '>=2.12.0 <3.0.0'

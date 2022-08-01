@@ -9,7 +9,7 @@ import 'slidable.dart';
 class BehindMotion extends StatelessWidget {
   /// Creates a [BehindMotion].
   ///
-  /// {@animation 664 200 https://raw.githubusercontent.com/letsar/flutter_slidable/assets/behind_motion.mp4}
+  /// {@animation 664 200 https://raw.githubusercontent.com/letsar/flutter_slidable_for_tencent_im/assets/behind_motion.mp4}
   const BehindMotion({
     Key? key,
   }) : super(key: key);
@@ -29,7 +29,7 @@ class BehindMotion extends StatelessWidget {
 class StretchMotion extends StatelessWidget {
   /// Creates a [StretchMotion].
   ///
-  /// {@animation 664 200 https://raw.githubusercontent.com/letsar/flutter_slidable/assets/stretch_motion.mp4}
+  /// {@animation 664 200 https://raw.githubusercontent.com/letsar/flutter_slidable_for_tencent_im/assets/stretch_motion.mp4}
   const StretchMotion({
     Key? key,
   }) : super(key: key);
@@ -61,7 +61,7 @@ class StretchMotion extends StatelessWidget {
 class ScrollMotion extends StatelessWidget {
   /// Creates a [ScrollMotion].
   ///
-  /// {@animation 664 200 https://raw.githubusercontent.com/letsar/flutter_slidable/assets/scroll_motion.mp4}
+  /// {@animation 664 200 https://raw.githubusercontent.com/letsar/flutter_slidable_for_tencent_im/assets/scroll_motion.mp4}
   const ScrollMotion({
     Key? key,
   }) : super(key: key);
@@ -89,7 +89,7 @@ class ScrollMotion extends StatelessWidget {
 class DrawerMotion extends StatelessWidget {
   /// Creates a [DrawerMotion].
   ///
-  /// {@animation 664 200 https://raw.githubusercontent.com/letsar/flutter_slidable/assets/drawer_motion.mp4}
+  /// {@animation 664 200 https://raw.githubusercontent.com/letsar/flutter_slidable_for_tencent_im/assets/drawer_motion.mp4}
   const DrawerMotion({
     Key? key,
   }) : super(key: key);

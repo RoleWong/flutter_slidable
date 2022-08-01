@@ -1,8 +1,8 @@
 import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_slidable/src/action_pane_motions.dart';
-import 'package:flutter_slidable/src/actions.dart';
-import 'package:flutter_slidable/src/slidable.dart';
+import 'package:flutter_slidable_for_tencent_im/src/action_pane_motions.dart';
+import 'package:flutter_slidable_for_tencent_im/src/actions.dart';
+import 'package:flutter_slidable_for_tencent_im/src/slidable.dart';
 import 'package:flutter_test/flutter_test.dart';
 
 void main() {
