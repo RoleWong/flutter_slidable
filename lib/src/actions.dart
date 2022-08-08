@@ -198,7 +198,7 @@ class SlidableAction extends StatelessWidget {
       children.add(
         Text(
           label!,
-          overflow: TextOverflow.ellipsis,
+          // overflow: TextOverflow.,
         ),
       );
     }

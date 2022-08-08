@@ -1,3 +1,7 @@
+## 1.4.0
+### Fixed
+* 支持自动换行
+
 ## 1.3.2
 ### Fixed
 * ClipBehavior.none issue (https://github.com/letsar/flutter_slidable_for_tencent_im/issues/361).
